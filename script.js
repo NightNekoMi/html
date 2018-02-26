@@ -1,5 +1,4 @@
 charset = "utf-8"
-var res = "4245314322";
 function check_me()
 {
     var count = 0;
